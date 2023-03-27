@@ -58,6 +58,10 @@ Official project links.
 - [typst.nvim](https://github.com/SeniorMars/typst.nvim): WIP. Goals: Treesitter highlighting, snippets, and a smooth intergration with neovim.
 - [typst.vim](https://github.com/kaarmu/typst.vim): Vim plugin for Typst
 
+### Stand-alone editors
+
+- [Drafts](https://github.com/limads/drafts): A Gnome-based editor for editing `.typ` files locally.
+
 ## Tools
 
 - [typst-bot](https://github.com/mattfbacon/typst-bot): A discord bot to render Typst code
